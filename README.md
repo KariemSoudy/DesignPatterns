@@ -1,2 +1,2 @@
 # DesignPatterns
-practice design patterns
+this repo is to practice design patterns
